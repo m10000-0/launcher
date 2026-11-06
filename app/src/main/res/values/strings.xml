@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Início</string>
+    <string name="admin_title">Painel da família</string>
+    <string name="admin_description">Protege o celular contra instalações de vírus e mudanças acidentais de configuração.</string>
+</resources>
